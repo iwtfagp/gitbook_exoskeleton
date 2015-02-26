@@ -2,5 +2,5 @@
 
 * [Introduction](introduction.md)
    * History
-* Today
+* Category
 
