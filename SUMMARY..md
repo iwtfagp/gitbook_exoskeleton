@@ -3,5 +3,5 @@
 * [Introduction](introduction.md)
    * History
 * [Category](category.md)
-   * American
+   * [American](american.md)
 
